@@ -35,7 +35,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/KoMaR005/Venom
+> git clone https://github.com/DoNKoMaR/Venom
 > cd Venom
 > yarn install 
 > npm install

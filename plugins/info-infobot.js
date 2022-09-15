@@ -41,7 +41,7 @@ contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: nul
 title: 'ИНФО ОБ ЭТОМ БОТЕ',
 body: '☆☬VeNoM☬☆',         
 previewType: 0, thumbnail: fs.readFileSync("./Venom.jpg"),
-sourceUrl: `https://github.com/KoMaR005`}}})
+sourceUrl: `https://github.com/DoNKoMaR`}}})
 }
 handler.help = ['infobot', 'speed']
 handler.tags = ['info', 'tools']

@@ -17,5 +17,5 @@ let donar =`
 conn.sendHydrated(m.chat, donar, wm, null, 'https://chat.whatsapp.com/LTLuGNRI30VHffhgfZqinq', 'НАЖМИ НА ССЫЛКУ', null, null, [['ГЛАВНОЕ МЕНЮ', '/меню']], m)}
 handler.help = ['donasi']
 handler.tags = ['info']
-handler.command = /^dona(te|si)|вацап|apoyar$/i
+handler.command = /^dona(te|si)|аренда|apoyar$/i
 export default handler

@@ -14,16 +14,16 @@
         "cli": "node . --optimize_for_size --max_old_space_size=460 index.js",
         "db": "node . --autocleartmp --db 'mongodb+srv://BrunoSobrino:Akhmad6825@cluster0.mflne.mongodb.net/TheMystic-Bot-MD?retryWrites=true&w=majority'"
     },
-    "homepage": "https://github.com/KoMaR005/Venom",
+    "homepage": "https://github.com/DoNKoMaR/Venom",
     "author": {
-        "name": "VeNoM"
+        "name": "☣ ⒹⓞⓃ ⓀⓞⓂⓐⓇ ☣"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/KoMaR005/Venom.git"
+        "url": "git+https://github.com/DoNKoMaR/Venom.git"
     },
     "bugs": {
-        "url": "https://github.com/KoMaR005/Venom/issues"
+        "url": "https://github.com/DoNKoMaR/Venom/issues"
     },
     "license": "MIT",
     "dependencies": {

@@ -33,27 +33,16 @@ let str = `
 ° ✯-БЛОКИРОВКА ЧАТА_
 ° ✯-БЛОКИРОВКА ПОЛЬЗОВАТЕЛЯ_
 ° ✯-ДАЕТ ПРЕМИУМ_
-° ඬ⃟🔊 _Viernes_
-° ඬ⃟🔊 _Baneado_
-° ඬ⃟🔊 _Sexo_
-° ඬ⃟🔊 _Hola_
-° ඬ⃟🔊 _Un pato_
-° ඬ⃟🔊 _Nyanpasu_
-° ඬ⃟🔊 _Te amo_
-° ඬ⃟🔊 _Yamete_
-° ඬ⃟🔊 _Bañate_
-° ඬ⃟🔊 _Es puto_
-° ඬ⃟🔊 _La biblia_
-° ඬ⃟🔊 _Onichan_
+
 ° ✭✭✭✭ ХОТИТЕ УЗНАТЬ ПРО АРЕНДУ ПИШИТЕ ВЛАДЕЛЬЦУ БОТА ✭✭✭✭_
 
 `.trim()
-conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/KoMaR005', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/DoNKoMaR', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['ГЛАВНОЕ МЕНЮ', '/меню']
 ], m)
 }}
 handler.help = ['menu2', 'help2', '?2', 'menuaudios']
 handler.tags = ['main']
-handler.command = /^(возможности|аренда|)$/i
+handler.command = /^(возможности||)$/i
 handler.fail = null
 export default  handler

@@ -22,11 +22,11 @@ AÑADE AL APARTADO DE BUILPACK LO SIGUIENTE, SI YA APARCEN SOLO IGNORA ESTA PART
 ADVERTENCIA: HEROKU ESTA SUSPENDIENDO CUENTAS POR SOLO USAR EL BOT, POR AHORA NO ES RECOMENDABLE USAR EL BOT EN HEROKU!
 ```
 
-### `—◉ ⚙️ AJUSTES ⚙️`
+### `—◉ ⚙️ НАСТРОЙКИ ⚙️`
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/DoNKoMaR/Venom/fork)
 - CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/DoNKoMaR/Venom/blob/master/config.js)
 
-### `—◉ 👾 ACTIVAR EN TERMUX 👾`
+### `—◉ 👾 АКТИВИРОВАТЬ В TERMUX 👾`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd
@@ -48,22 +48,22 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE ✔️`
 ```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+ВВОДИТЕ СЛЕДУЮЩИЕ КОМАНДЫ ПО ОДНОЙ:
 > cd 
-> cd sos2
+> cd Venom
 > npm start
 ```
 
-### `—◉ 👽 OBTENER OTRO CODIGO QR 👽`
+### `—◉ 👽 ПОЛУЧИТЕ ДРУГОЙ QR-КОД 👽`
 ```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+ВВОДИТЕ СЛЕДУЮЩИЕ КОМАНДЫ ПО ОДНОЙ:
 > cd 
-> cd sos2
+> cd Venom
 > rm -rf session.data.json
 > npm start
 ```
 
-### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
+### `—◉ 🔥 АКТИВИРОВАТЬ НА BOXMINEHOST 🔥`
 <img src="https://64.media.tumblr.com/2539d481fd5f91c2a9748fdf18c17375/tumblr_n9y114IdTc1sxpnovo1_500.gifv" alt="GIF" width="520" height="240"/>
 <p>> Pagina Oficial:
 <a href="https://boxmineworld.com">https://boxmineworld.com</a>

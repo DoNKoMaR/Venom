@@ -5,7 +5,7 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['+79773452127', '☆☬VeNoM☬☆', true],
+  ['+79636155845', '☆☬VeNoM☬☆', true],
   ['+79773452127', '◄͜͡❂Bucky Barnes✪  ᷦ', true],
 ] // Cambia los numeros que quieras
 global.mods = [] 

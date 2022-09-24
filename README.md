@@ -4,7 +4,7 @@
 <a href="http://wa.me/79773452127" target="blank"><img src="https://img.shields.io/badge/DoNKoMaR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 <p align="center">
-<a href="#"><img title="WhatsApp-Bot-MD" src="https://img.shields.io/badge/☆☬VeNoM☬☆ BOT BY ☣ⒹⓞⓃ ⓀⓞⓂⓐⓇ☣-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="WhatsApp Bot ☆☬VeNoM☬☆" src="https://img.shields.io/badge/☆☬VeNoM☬☆ BOT BY ☣ⒹⓞⓃ ⓀⓞⓂⓐⓇ☣-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 ### `—◉ 🖍 LETRA DEL BOT 🖍`

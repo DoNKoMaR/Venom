@@ -13,8 +13,8 @@
 ### `—◉ ✨ ACTIVAR EN HEROKU ✨`
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DoNKoMaR/Venom)
 ```bash
-[❗] FALLAS POR EL MOMENTO EN HEROKU, SE TRABAJA EN SOLUCIONAR ERRORES.
-AÑADE AL APARTADO DE BUILPACK LO SIGUIENTE, SI YA APARCEN SOLO IGNORA ESTA PARTE:
+[❗] НЕИСПРАВНОСТИ В НАСТОЯЩИЙ МОМЕНТ В HEROKU, РЕШАЕТСЯ РАБОТА ОШИБКИ.
+ДОБАВЬТЕ СЛЕДУЮЩЕЕ В РАЗДЕЛ BUILPACK, ЕСЛИ ОНИ УЖЕ ПОЯВЛЯЮТСЯ, ПРОСТО ИГНОРИРУЙТЕ ЭТУ ЧАСТЬ:
 > heroku/nodejs
 > https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
 > https://github.com/clhuang/heroku-buildpack-webp-binaries.git

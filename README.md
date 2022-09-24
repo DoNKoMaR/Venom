@@ -7,7 +7,7 @@
 <a href="#"><img title="WhatsApp Bot ☆☬VeNoM☬☆" src="https://img.shields.io/badge/☆☬VeNoM☬☆ BOT BY ☣ⒹⓞⓃ ⓀⓞⓂⓐⓇ☣-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
-### `—◉ 🖍 LETRA DEL BOT 🖍`
+### `—◉ ✨ ЛИРИКА ОТ БОТА ✨`
 - PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
 
 ### `—◉ ✨ ACTIVAR EN HEROKU ✨`

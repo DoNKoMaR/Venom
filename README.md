@@ -28,7 +28,7 @@ ADVERTENCIA: HEROKU ESTA SUSPENDIENDO CUENTAS POR SOLO USAR EL BOT, POR AHORA NO
 
 ### `—◉ 👾 АКТИВИРОВАТЬ В TERMUX 👾`
 ```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+ВВОДИТЕ СЛЕДУЮЩИЕ КОМАНДЫ ПО ОДНОЙ:
 > cd
 > termux-setup-storage
 > apt update 

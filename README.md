@@ -93,7 +93,7 @@ ADVERTENCIA: HEROKU ESTA SUSPENDIENDO CUENTAS POR SOLO USAR EL BOT, POR AHORA NO
 ## `ВЛАДЕЛЕЦ БОТА  И РЕДАКТОР` 
 `☣ⒹⓞⓃ ⓀⓞⓂⓐⓇ☣`
 <a href="https://github.com/DoNKoMaR"><img src="https://github.com/DoNKoMaR.png" width="300" height="300" alt="DoNKoMaR"/></a>
-<a href="https://github.com/DoNKoMaR"><img src="https://github.com/DoNKoMaR.png" width="300" height="300" alt="DoNKoMaR"/></a>
+<a href="https://github.com/DoNKoMaR"><img src="hhttps://c.tenor.com/zaX4cvQopRQAAAAC/civil-war-winter-soldier.gif" width="300" height="300" alt="DoNKoMaR"/></a>
 
 ----
 

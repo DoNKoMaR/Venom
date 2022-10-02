@@ -5,7 +5,7 @@ let handler = async (m, { conn }) => {
 if (!db.data.chats[m.chat].audios && m.isGroup) throw 0
 let vn = './media/KoMaR.jpg'
 conn.sendFile(m.chat, vn, 'KoMaR.jpg', null, m, true, {
-type: ' audioMessage ', 
+type: ' JpgMessage ', 
 ptt: true 
 })
 }

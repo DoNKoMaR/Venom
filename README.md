@@ -103,4 +103,4 @@ ADVERTENCIA: HEROKU ESTA SUSPENDIENDO CUENTAS POR SOLO USAR EL BOT, POR AHORA NO
 
 ### 🌟 Благодарность создателю Бота
  
-[![DoNKoMaR](https://github.com/DoNKoMaR.png?size=100)](https://github.com/DoNKoMaR) 
+[![DoNKoMaR](https://i.pinimg.com/originals/e4/c9/64/e4c964502d47de6acee11b504d8d2c9c.gif?size=100)](https://github.com/DoNKoMaR) 

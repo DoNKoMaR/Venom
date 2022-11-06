@@ -375,7 +375,7 @@ export async function handler(chatUpdate) {
                     for (let [jid] of global.owner.filter(([number, _, isDeveloper]) => isDeveloper && number)) {
                         let data = (await conn.onWhatsApp(jid))[0] || {}
                         if (data.exists)
-                            m.reply(`*[ ⚠️ ОТЧЕТ О КОМАНДНЫХ СБОЯХ ⚠️ ]*\n\n*—◉ 𝙿𝙻𝚄𝙶𝙸𝙽:* ${name}\n*—◉ 𝚄𝚂𝚄𝙰𝚁𝙸𝙾:* ${m.sender}\n*—◉ 𝙲𝙾𝙼𝙰𝙽𝙳𝙾:* ${m.text}\n\n*—◉ 𝙴𝚁𝚁𝙾𝚁:*\n\`\`\`${format(e)}\`\`\`\n\n*[❗] 𝚁𝙴𝙿𝙾𝚁𝚃𝙴𝙻𝙾 𝙰𝙻 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 𝙳𝙴𝙻 𝙱𝙾𝚃 𝙿𝙰𝚁𝙰 𝙳𝙰𝚁𝙻𝙴 𝚄𝙽𝙰 𝚂𝙾𝙻𝚄𝙲𝙸𝙾𝙽, 𝙿𝚄𝙴𝙳𝙴 𝚄𝚂𝙰𝚁 𝙴𝙻 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 #reporte*`.trim(), data.jid)
+                            m.reply(`*[ ⚠️ ОТЧЕТ О КОМАНДНЫХ СБОЯХ ⚠️ ]*\n\n*—◉ ПЛАГИН:* ${name}\n*—◉ ПОЛЬЗОВАТЕЛЬ:* ${m.sender}\n*—◉ КОМАНДА:* ${m.text}\n\n*—◉ 𝙴𝚁𝚁𝙾𝚁:*\n\`\`\`${format(e)}\`\`\`\n\n*[❗] СООБЩИТЕ ОБ ЭТОМ СОЗДАТЕЛЮ БОТА, ЧТОБЫ ДАТЬ ЕМУ РЕШЕНИЕ. ВЫ МОЖЕТЕ ИСПОЛЬЗОВАТЬ КОМАНДУ #reporte*`.trim(), data.jid)
                     }
                 }
             }
